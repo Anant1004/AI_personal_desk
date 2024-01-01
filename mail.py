@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 # Set your email credentials
 sender_email = "twinkle127k@gmail.com"
 receiver_email = "anant1042005@gmail.com"
-password = "Twinkle@google#12"
+password = ""
 
 # Create a message object
 message = MIMEMultipart()
